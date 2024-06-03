@@ -1,0 +1,244 @@
+,id,lat,long,postcode,price,rooms,images,type,addressShort,street,landloard_id,fname,sname,company,added
+0,908519772,52.6302094,-1.1209708,LE2 0JF,102.50,6,13,apartment,"College Avenue, Highfields",College Avenue,386,Mayur,Sachdev,First 4 Lettings,False
+1,651681051,52.6294963,-1.1154412999999,LE2 1BD,113,5,9,house,"Avon Street, Highfields",Avon Street,386,Mayur,Sachdev,First 4 Lettings,False
+2,2086478238,52.615284863444,-1.1158799673718,LE2 3FN,99,5,12,house,"Queens Road, Clarendon Park",Queens Road,386,Mayur,Sachdev,First 4 Lettings,False
+3,1061403365,52.630965724057,-1.1203836767214,LE2 0JS,115,6,12,house,"Hobart Street, Highfields",Hobart Street,386,Mayur,Sachdev,First 4 Lettings,False
+4,465780224,52.633801940113,-1.1552292219324,LE3 6BE,99,5,10,house,"Kirby Road, Westcotes",Kirby Road,386,Mayur,Sachdev,First 4 Lettings,False
+5,174842681,52.6269186,-1.1087804,LE5 5HN,111,5,10,house,"Glossop Street, Highfields",Glossop Street,386,Mayur,Sachdev,First 4 Lettings,False
+6,803732519,52.627213312116,-1.1175435403649,LE2 1GE,109,4,12,house,"St. Albans Road, Highfields",St. Albans Road,386,Mayur,Sachdev,First 4 Lettings,False
+7,1726702676,52.61677867352,-1.1229955144574,LE2 1XP,118,4,8,house,"Howard Road, Clarendon Park",Howard Road,386,Mayur,Sachdev,First 4 Lettings,False
+8,1709854460,52.6262853,-1.1552874,LE3 0FY,115,6,13,house,"Fosse Road South, Westcotes",Fosse Road South,386,Mayur,Sachdev,First 4 Lettings,False
+9,623955224,52.626814164335,-1.1527268416297,LE3 0FE,107,4,9,house,"Beaconsfield Road, Westcotes",Beaconsfield Road,386,Mayur,Sachdev,First 4 Lettings,False
+10,17001564,52.622555778158,-1.1362777615217,LE2 7JA,104,5,8,house,"Brazil Street, Aylestone",Brazil Street,386,Mayur,Sachdev,First 4 Lettings,False
+11,950513380,52.609112718205,-1.1246763114135,LE2 6DD,106,4,10,house,"Heather Road, Knighton",Heather Road,386,Mayur,Sachdev,First 4 Lettings,False
+12,1906747294,52.616606889209,-1.1213593025604,LE2 1WL,108,4,10,house,"Lytton Road, Clarendon Park",Lytton Road,386,Mayur,Sachdev,First 4 Lettings,False
+13,1926527473,52.615930314469,-1.1243745627496,LE2 1YE,117,4,11,house,"Thurlow Road, Clarendon Park",Thurlow Road,386,Mayur,Sachdev,First 4 Lettings,False
+14,76871956,52.615685356295,-1.1264302827559,LE2 6AD,164,2,6,house,"Brentwood Road, Clarendon Park",Brentwood Road,386,Mayur,Sachdev,First 4 Lettings,True
+15,1070994581,52.6243389,-1.1123297,LE2 1LT,99,5,10,house,"Mundella Street, Clarendon Park",Mundella Street,386,Mayur,Sachdev,First 4 Lettings,False
+16,793112925,52.626344246174,-1.1493685444901,LE3 0AS,102,5,12,house,"Equity Road, Westcotes",Equity Road,386,Mayur,Sachdev,First 4 Lettings,False
+17,95104105,52.6288607,-1.1376293,LE2 7EN,251,1,6,house,"Deacon Street, City Centre",Deacon Street,386,Mayur,Sachdev,First 4 Lettings,False
+18,95104105,52.6288607,-1.1376293,LE2 7EN,251,1,6,house,"Deacon Street, City Centre",Deacon Street,386,Mayur,Sachdev,First 4 Lettings,False
+19,99177533,52.616335405319,-1.123260055921,LE2 1YH,101,4,7,house,"Lorne Road, Clarendon Park",Lorne Road,386,Mayur,Sachdev,First 4 Lettings,False
+20,513557664,52.614998464701,-1.1228792979873,LE2 1YD,117,4,10,house,"Lytham Road, Clarendon Park",Lytham Road,386,Mayur,Sachdev,First 4 Lettings,False
+21,1448844542,52.615682747864,-1.1264302716488,LE2 6AD,229,1,4,house,"Brentwood Road, Clarendon Park",Brentwood Road,386,Mayur,Sachdev,First 4 Lettings,False
+22,1303195309,52.638136307483,-1.1484607545862,LE3 5HU,199,1,3,house,"Tudor Road, City Centre",Tudor Road,386,Mayur,Sachdev,First 4 Lettings,False
+23,1686248944,52.6269186,-1.1087804,LE5 5HN,112,4,10,house,"Glossop Street, Highfields",Glossop Street,386,Mayur,Sachdev,First 4 Lettings,False
+24,1875007626,52.616297761777,-1.1232151149443,LE2 1YH,116,4,19,house,"Lorne Road, Clarendon Park",Lorne Road,386,Mayur,Sachdev,First 4 Lettings,False
+25,2051111870,52.6249629,-1.1508089,LE3 0DS,101,4,11,house,"Noel Street, Westcotes",Noel Street,386,Mayur,Sachdev,First 4 Lettings,False
+26,817161199,52.6279345,-1.1536988,LE3 0JA,101,4,9,house,"Barclay Street, Westcotes",Barclay Street,386,Mayur,Sachdev,First 4 Lettings,False
+27,1036948260,52.6111438,-1.1205861,LE2 3FE,114,5,11,house,"Houlditch Road, Clarendon Park",Houlditch Road,386,Mayur,Sachdev,First 4 Lettings,False
+28,1323262230,52.6156198,-1.1195598,LE2 3AF,126,3,8,house,"Clarendon Park Road, Clarendon Park",Clarendon Park Road,386,Mayur,Sachdev,First 4 Lettings,False
+29,1074417594,52.61231026713,-1.125713496649,LE2 6ED,109,4,8,house,"Wordsworth Road, Clarendon Park",Wordsworth Road,386,Mayur,Sachdev,First 4 Lettings,False
+30,360488879,52.625926514705,-1.1125705977787,LE2 1HS,117,4,7,house,"Tennyson Street, Highfields",Tennyson Street,386,Mayur,Sachdev,First 4 Lettings,False
+31,1847422881,52.6243389,-1.1123297,LE2 1LT,106,4,10,house,"Mundella Street, Clarendon Park",Mundella Street,386,Mayur,Sachdev,First 4 Lettings,False
+32,892064704,52.628264,-1.1215491,LE2 0QT,121,4,9,house,"London Road, Highfields",London Road,386,Mayur,Sachdev,First 4 Lettings,False
+33,84668789,52.6242605,-1.1135001,LE2 1LR,104,5,10,house,"Mayfield Road, Clarendon Park",Mayfield Road,386,Mayur,Sachdev,First 4 Lettings,False
+34,806671998,52.6276625,-1.116353,LE2 1FJ,126,4,9,house,"Connaught Street, Highfields",Connaught Street,386,Mayur,Sachdev,First 4 Lettings,False
+35,1713053911,52.6238489,-1.1571418999999,LE3 1AE,110,5,11,house,"Fosse Road South, Westcotes",Fosse Road South,386,Mayur,Sachdev,First 4 Lettings,False
+36,95104105,52.6288607,-1.1376293,LE2 7EN,251,1,6,house,"Deacon Street, City Centre",Deacon Street,386,Mayur,Sachdev,First 4 Lettings,False
+37,99177533,52.616335405319,-1.123260055921,LE2 1YH,101,4,7,house,"Lorne Road, Clarendon Park",Lorne Road,386,Mayur,Sachdev,First 4 Lettings,False
+38,513557664,52.614998464701,-1.1228792979873,LE2 1YD,117,4,10,house,"Lytham Road, Clarendon Park",Lytham Road,386,Mayur,Sachdev,First 4 Lettings,False
+39,1448844542,52.615682747864,-1.1264302716488,LE2 6AD,229,1,4,house,"Brentwood Road, Clarendon Park",Brentwood Road,386,Mayur,Sachdev,First 4 Lettings,False
+40,1303195309,52.638136307483,-1.1484607545862,LE3 5HU,199,1,3,house,"Tudor Road, City Centre",Tudor Road,386,Mayur,Sachdev,First 4 Lettings,False
+41,1686248944,52.6269186,-1.1087804,LE5 5HN,112,4,10,house,"Glossop Street, Highfields",Glossop Street,386,Mayur,Sachdev,First 4 Lettings,False
+42,1875007626,52.616297761777,-1.1232151149443,LE2 1YH,116,4,19,house,"Lorne Road, Clarendon Park",Lorne Road,386,Mayur,Sachdev,First 4 Lettings,False
+43,2051111870,52.6249629,-1.1508089,LE3 0DS,101,4,11,house,"Noel Street, Westcotes",Noel Street,386,Mayur,Sachdev,First 4 Lettings,False
+44,817161199,52.6279345,-1.1536988,LE3 0JA,101,4,9,house,"Barclay Street, Westcotes",Barclay Street,386,Mayur,Sachdev,First 4 Lettings,False
+45,1036948260,52.6111438,-1.1205861,LE2 3FE,114,5,11,house,"Houlditch Road, Clarendon Park",Houlditch Road,386,Mayur,Sachdev,First 4 Lettings,False
+46,1323262230,52.6156198,-1.1195598,LE2 3AF,126,3,8,house,"Clarendon Park Road, Clarendon Park",Clarendon Park Road,386,Mayur,Sachdev,First 4 Lettings,False
+47,1074417594,52.61231026713,-1.125713496649,LE2 6ED,109,4,8,house,"Wordsworth Road, Clarendon Park",Wordsworth Road,386,Mayur,Sachdev,First 4 Lettings,False
+48,360488879,52.625926514705,-1.1125705977787,LE2 1HS,117,4,7,house,"Tennyson Street, Highfields",Tennyson Street,386,Mayur,Sachdev,First 4 Lettings,False
+49,1847422881,52.6243389,-1.1123297,LE2 1LT,106,4,10,house,"Mundella Street, Clarendon Park",Mundella Street,386,Mayur,Sachdev,First 4 Lettings,False
+50,892064704,52.628264,-1.1215491,LE2 0QT,121,4,9,house,"London Road, Highfields",London Road,386,Mayur,Sachdev,First 4 Lettings,False
+51,84668789,52.6242605,-1.1135001,LE2 1LR,104,5,10,house,"Mayfield Road, Clarendon Park",Mayfield Road,386,Mayur,Sachdev,First 4 Lettings,False
+52,806671998,52.6276625,-1.116353,LE2 1FJ,126,4,9,house,"Connaught Street, Highfields",Connaught Street,386,Mayur,Sachdev,First 4 Lettings,False
+53,1713053911,52.6238489,-1.1571418999999,LE3 1AE,110,5,11,house,"Fosse Road South, Westcotes",Fosse Road South,386,Mayur,Sachdev,First 4 Lettings,False
+54,1746317656,52.612996598074,-1.122916669584,LE2 3DL,117,4,10,house,"Greenhill Road, Clarendon Park",Greenhill Road,386,Mayur,Sachdev,First 4 Lettings,False
+55,1766296499,52.6186017,-1.1163263999999,LE2 1TA,103,3,8,house,"Cecilia Road, Clarendon Park",Cecilia Road,386,Mayur,Sachdev,First 4 Lettings,False
+56,553178171,52.627788997613,-1.1525532867662,LE3 0JA,118,4,10,house,"Barclay Street, Westcotes",Barclay Street,386,Mayur,Sachdev,First 4 Lettings,False
+57,2093709183,52.617160172678,-1.1209081377362,LE2 1WG,128,4,10,house,"Hartopp Road, Clarendon Park",Hartopp Road,386,Mayur,Sachdev,First 4 Lettings,False
+58,1478301251,52.623248879202,-1.1501524268209,LE3 0DB,128,4,12,house,"Eastleigh Road, Westcotes",Eastleigh Road,386,Mayur,Sachdev,First 4 Lettings,False
+59,1800607796,52.623248879202,-1.1501524268209,LE3 0DB,128,4,11,house,"Eastleigh Road, Westcotes",Eastleigh Road,386,Mayur,Sachdev,First 4 Lettings,False
+60,264130763,52.611492460351,-1.1294295922647,LE2 6DB,144,2,10,house,"Burns Street, Aylestone",Burns Street,386,Mayur,Sachdev,First 4 Lettings,False
+61,1644902858,52.6247,-1.1112,LE2 1PJ,111,3,9,house,"Leicestershire, Highfields",Leicestershire,404,Chris,McDonald,Livingstone,True
+62,22078294,52.634054,-1.127233,LE1 1QA,169,2,9,apartment,"Zenith Building 26 Colton Street, City Centre",Zenith Building 26 Colton Street,544,Sanjiv,Raithatha,Priya Properties,True
+63,947165366,52.629312,-1.137676,LE1 9BH,171,2,10,apartment,"The Gateway, City Centre",The Gateway,295,Rebecca,Anderson,Butlin Property Services,True
+64,1972505953,52.6277,-1.1185,LE2 1AH,111,3,9,house,"Leicestershire, City Centre",Leicestershire,404,Chris,McDonald,Livingstone,True
+65,1212058486,52.617935,-1.121128,LE2 1WS,105,5,10,house,"Leicestershire, Clarendon Park",Leicestershire,404,Chris,McDonald,Livingstone,True
+66,2132997031,52.6097,-1.1197,LE2 3FD,109,6,15,house,"Leicestershire, Clarendon Park",Leicestershire,404,Chris,McDonald,Livingstone,True
+67,2131966192,52.6285,-1.1513,LE3 0QR,259,1,4,apartment,"Westcotes Drive, Westcotes",Westcotes Drive,544,Sanjiv,Raithatha,Priya Properties,True
+68,224199923,52.627661,-1.129305,LE1 6XL,112,6,12,house,"West Street, Highfields",West Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+69,1612450139,52.611213,-1.137308,LE2 8AA,130,4,13,house,"Clifton Road, Aylestone",Clifton Road,415,Asim,Iqbal,Keywest,False
+70,632207208,52.625838,-1.112546,LE2 1HS,111,3,8,apartment,"Leicestershire, Highfields",Leicestershire,404,Chris,McDonald,Livingstone,False
+71,1520737140,52.6269,-1.1169,LE2 1GF,113,4,10,house,"Leicestershire, Highfields",Leicestershire,404,Chris,McDonald,Livingstone,False
+72,1305764667,52.627765,-1.115201,LE2 1FP,107,4,10,house,"Leicestershire, Highfields",Leicestershire,404,Chris,McDonald,Livingstone,False
+73,428338556,52.625838,-1.112546,LE2 1HS,101,4,9,apartment,"Leicestershire, Highfields",Leicestershire,404,Chris,McDonald,Livingstone,False
+74,1077989565,52.6247,-1.1112,LE2 1PJ,101,4,9,house,"Leicestershire, Highfields",Leicestershire,404,Chris,McDonald,Livingstone,False
+75,788946765,52.6277,-1.1185,LE2 1AH,107,4,9,house,"Leicestershire, City Centre",Leicestershire,404,Chris,McDonald,Livingstone,False
+76,633237023,52.632159,-1.13099,LE1 6GB,126,4,15,apartment,"City Centre, City Centre",City Centre,295,Rebecca,Anderson,Butlin Property Services,False
+77,1096266909,52.632159,-1.13099,LE1 6GB,121,4,15,apartment,"Leicester, City Centre",Leicester,295,Rebecca,Anderson,Butlin Property Services,False
+78,1706225584,52.632159,-1.13099,LE1 6GB,145,3,15,apartment,"Leicester, City Centre",Leicester,295,Rebecca,Anderson,Butlin Property Services,False
+79,2126825893,52.630465,-1.151771,LE3 0QG,149,2,10,house,"Luther Street, Westcotes",Luther Street,295,Rebecca,Anderson,Butlin Property Services,False
+80,1345937637,52.625286,-1.154058,LE3 0FA,119,6,17,house,"Ashleigh Road, Westcotes",Ashleigh Road,295,Rebecca,Anderson,Butlin Property Services,False
+81,1204904308,52.622691,-1.136615,LE2 7JA,119,5,20,apartment,"Brazil Street, Westcotes",Brazil Street,295,Rebecca,Anderson,Butlin Property Services,False
+82,882597763,52.617699,-1.121758,LE2 1WE,129,5,15,house,"Hartopp Road, Stoneygate",Hartopp Road,295,Rebecca,Anderson,Butlin Property Services,False
+83,1185124125,52.617052,-1.123258,LE2 1WA,129,5,24,house,"Clarendon Park, Clarendon Park",Clarendon Park,295,Rebecca,Anderson,Butlin Property Services,False
+84,1386418840,52.622721,-1.156308,LE3 1AG,111,4,10,house,"Imperial Avenue, Westcotes",Imperial Avenue,415,Asim,Iqbal,Keywest,False
+85,2035167627,52.6226,-1.1565,LE3 1AG,104,5,16,house,"Imperial Avenue, Westcotes",Imperial Avenue,415,Asim,Iqbal,Keywest,False
+86,1705362873,52.625969,-1.140254,LE2 7GT,106,4,8,house,"Windermere Street, City Centre",Windermere Street,415,Asim,Iqbal,Keywest,False
+87,605752790,52.628354,-1.151879,LE3 0JY,110,3,7,house,"Harrow Road, Westcotes",Harrow Road,415,Asim,Iqbal,Keywest,False
+88,837028344,52.628,-1.1534,LE3 0JW,106,4,14,house,"Harrow Road, Westcotes",Harrow Road,415,Asim,Iqbal,Keywest,False
+89,46987477,52.632743,-1.153684,LE3 6BN,131,6,20,house,"Stretton Road, Westcotes",Stretton Road,663,Jack,Bramford,Housemate Hunter,False
+90,136872032,52.632743,-1.153684,LE3 6BN,120,7,20,house,"Stretton Road, Westcotes",Stretton Road,663,Jack,Bramford,Housemate Hunter,False
+91,1648564399,52.632743,-1.153684,LE3 6BN,109,8,20,house,"Stretton Road, Westcotes",Stretton Road,663,Jack,Bramford,Housemate Hunter,False
+92,551112178,52.633585,-1.127053,LE1 1LG,130,3,10,house,"Church Street, City Centre",Church Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+93,1681215400,52.61314,-1.124132,LE2 6EG,132,5,13,house,"Welford Road, Clarendon Park",Welford Road,663,Jack,Bramford,Housemate Hunter,False
+94,456701913,52.61314,-1.124132,LE2 6EG,112,6,13,house,"Welford Road, Clarendon Park",Welford Road,663,Jack,Bramford,Housemate Hunter,False
+95,1378622990,52.61314,-1.124132,LE2 6EG,111,7,13,house,"Welford Road, Clarendon Park",Welford Road,663,Jack,Bramford,Housemate Hunter,False
+96,152274623,52.610687,-1.119168,LE2 3FB,112,6,18,house,"Craighill Road, Clarendon Park",Craighill Road,663,Jack,Bramford,Housemate Hunter,False
+97,932097936,52.623793,-1.151516,LE3 0DB,94,4,8,house,"Eastleigh Road, Westcotes",Eastleigh Road,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+98,1719522533,52.626475,-1.145614,LE2 7EB,99,6,9,house,"Mint Road, Westcotes",Mint Road,415,Asim,Iqbal,Keywest,False
+99,190320632,52.6262,-1.1461,LE2 7ES,99,6,15,house,"Sage Close, Westcotes",Sage Close,415,Asim,Iqbal,Keywest,False
+100,459895384,52.62925,-1.120672,LE2 0ND,160,1,7,apartment,"Saxby Street, City Centre",Saxby Street,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+101,316081351,52.62925,-1.120672,LE2 0ND,150,1,3,house,"Saxby Street, City Centre",Saxby Street,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+102,1239117684,52.62925,-1.120672,LE2 0ND,150,1,4,apartment,"Saxby Street, City Centre",Saxby Street,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+103,360347000,52.635383,-1.134292,LE1 5GX,127,3,11,apartment,"Cank Street, City Centre",Cank Street,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+104,1885767931,52.615866,-1.117553,LE2 3BU,111,4,11,house,"Bulwer Road, Clarendon Park",Bulwer Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+105,141240773,52.614682,-1.123622,LE2 1YB,116,4,11,house,"Leopold Road, Clarendon Park",Leopold Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+106,1856183014,52.62925,-1.120672,LE2 0ND,160,1,5,apartment,"Saxby Street, City Centre",Saxby Street,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+107,24345927,52.624881,-1.153038,LE3 0PE,95,8,15,house,"Narborough Road, Westcotes",Narborough Road,663,Jack,Bramford,Housemate Hunter,False
+108,1033643874,52.614393092123,-1.1208902517183,LE2 3AR,111,3,7,house,"Lorne Road, Clarendon Park",Lorne Road,386,Mayur,Sachdev,First 4 Lettings,False
+109,931596487,52.626411,-1.140818,LE2 7DF,121,4,13,house,"Jarrom Street, Westcotes",Jarrom Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+110,9674902,52.626336,-1.140868,LE2 7DF,121,4,16,house,"Jarrom Street, Westcotes",Jarrom Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+111,1790153199,52.631721,-1.144723,LE3 5LH,109,5,8,house,"Braunstone Gate, Westcotes",Braunstone Gate,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+112,365956080,52.618631,-1.117915,LE2 1XN,106,4,7,house,"Howard Road, Clarendon Park",Howard Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+113,532305149,52.617693,-1.116549,LE2 1TG,130,3,9,house,"Montague Road, Clarendon Park",Montague Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+114,469619263,52.629125,-1.147788,LE3 0BL,134,2,7,house,"Saxon Street, Westcotes",Saxon Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+115,2005565924,52.617008,-1.120563,LE2 1WF,120,3,9,house,"Hartopp Road, Clarendon Park",Hartopp Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+116,1420314154,52.611648,-1.128552,LE2 6DR,125,3,10,house,"Knighton Fields Road East, Clarendon Park",Knighton Fields Road East,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+117,2035918054,52.61031,-1.124304,LE2 6EF,125,3,13,house,"Shelley Street, Clarendon Park",Shelley Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+118,188079432,52.62942,-1.151703,LE3 0QP,125,3,11,house,"Tyndale Street, Westcotes",Tyndale Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+119,500826858,52.618965,-1.117734,LE2 1WQ,118,6,20,house,"Queens Road, Clarendon Park",Queens Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+120,928397036,52.617194,-1.120766,LE2 1WF,127,3,11,house,"Hartopp Road, Clarendon Park",Hartopp Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+121,6475455,52.625365,-1.116238,LE2 1ND,155,3,8,house,"London Road, Highfields",London Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+122,1179999960,52.615385,-1.117869,LE2 3EH,116,4,11,house,"Avenue Road Extension, Clarendon Park",Avenue Road Extension,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+123,1975804236,52.627282,-1.148423,LE3 0BA,110,3,10,house,"Norman Street, Westcotes",Norman Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+124,63691350,52.63185,-1.144576,LE3 5LH,115,3,11,house,"Braunstone Gate, Westcotes",Braunstone Gate,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+125,1287942689,52.631756,-1.144613,LE3 5LH,109,5,9,house,"Braunstone Gate, Westcotes",Braunstone Gate,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+126,1584230648,52.625484,-1.113104,LE2 1HD,111,4,8,house,"Chaucer Street, Stoneygate",Chaucer Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+127,1238697094,52.611288,-1.124385,LE2 6DP,119,5,7,house,"Knighton Fields Road East Leicester, Clarendon Park",Knighton Fields Road East Leicester,544,Sanjiv,Raithatha,Priya Properties,False
+128,810356503,52.624721,-1.151002,LE3 0DU,116,4,17,house,"Stuart Street, Westcotes",Stuart Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+129,262064258,52.62899,-1.148286,LE3 0BD,110,3,9,house,"Roman Street, Westcotes",Roman Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+130,1053882655,52.616466,-1.121017,LE2 1WJ,111,4,9,house,"Lytton Road, Clarendon Park",Lytton Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+131,1790757924,52.61169,-1.11742,LE2 3GE,130,3,6,house,"Stanfell Road, Knighton",Stanfell Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+132,1991111253,52.631734,-1.14492,LE3 5NQ,125,3,10,house,"Thorpe Street, Westcotes",Thorpe Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+133,245636637,52.625728,-1.140833,LE2 7GT,101,4,9,house,"Windermere Street, City Centre",Windermere Street,663,Jack,Bramford,Housemate Hunter,False
+134,1653497819,52.615175,-1.124093,LE2 1YB,149,2,9,house,"Leopold Road, Clarendon Park",Leopold Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+135,1638808196,52.618302761947,-1.1207117248535,LE2 1XE,146,7,32,house,"Victoria Park Road, Clarendon Park",Victoria Park Road,535,Joshua,Littlewood,George Littlewood Properties LTD,False
+136,804441012,52.623793,-1.151516,LE3 0DB,99,4,12,house,"Eastleigh Road, Westcotes",Eastleigh Road,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+137,160674054,52.6355,-1.1471,LE3 5HS,239,1,7,house,"Tudor Road, City Centre",Tudor Road,544,Sanjiv,Raithatha,Priya Properties,False
+138,1976568758,52.6355,-1.1471,LE3 5HS,239,1,6,apartment,"Tudor Road, City Centre",Tudor Road,544,Sanjiv,Raithatha,Priya Properties,False
+139,2079440675,52.6285,-1.1513,LE3 0QR,259,1,4,apartment,"Westcotes Drive, Westcotes",Westcotes Drive,544,Sanjiv,Raithatha,Priya Properties,False
+140,610932916,52.623793,-1.151516,LE3 0DB,125,4,8,house,"Eastleigh Road, Westcotes",Eastleigh Road,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+141,753282907,52.614801,-1.124012,LE2 1YB,107,6,9,house,"Leopold Road, Clarendon Park",Leopold Road,767,Crystal,Abel,Abel Properties,False
+142,1676515208,52.615832,-1.122373,LE2 1YG,107,6,12,house,"Lorne Road, Clarendon Park",Lorne Road,767,Crystal,Abel,Abel Properties,False
+143,449969721,52.614149,-1.116182,LE2 3FN,107,6,9,house,"Queens Road, Clarendon Park",Queens Road,767,Crystal,Abel,Abel Properties,False
+144,1262231088,52.624855,-1.152818,LE3 0PE,107,7,15,house,"Narborough Road, Westcotes",Narborough Road,663,Jack,Bramford,Housemate Hunter,False
+145,877520260,52.625629,-1.149435,LE3 0GW,108,4,6,house,"Wilberforce Road, Westcotes",Wilberforce Road,663,Jack,Bramford,Housemate Hunter,False
+146,2088682935,52.627807,-1.155075,LE3 0JR,121,4,9,house,"Cambridge Street, Westcotes",Cambridge Street,663,Jack,Bramford,Housemate Hunter,False
+147,1959724572,52.624324,-1.113601,LE2 1LR,114,5,9,house,"Mayfield Road, Clarendon Park",Mayfield Road,663,Jack,Bramford,Housemate Hunter,False
+148,1149916402,52.6258,-1.1403,LE2 7GT,130,3,12,house,"Windermere Street Leicester, City Centre",Windermere Street Leicester,544,Sanjiv,Raithatha,Priya Properties,False
+149,1207758224,52.628016,-1.120386,LE2 0BJ,155,1,4,apartment,"Victoria Avenue, Highfields",Victoria Avenue,535,Joshua,Littlewood,George Littlewood Properties LTD,False
+150,744127004,52.623793,-1.151516,LE3 0DB,94,4,6,house,"Eastleigh Road, Westcotes",Eastleigh Road,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+151,1665262157,52.623793,-1.151516,LE3 0DB,99,4,5,house,"Eastleigh Road, Westcotes",Eastleigh Road,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+152,1576845282,52.615603,-1.117098,LE2 3EH,121,4,12,house,"Avenue Road Extension, Clarendon Park",Avenue Road Extension,415,Asim,Iqbal,Keywest,False
+153,1739937511,52.616682,-1.120161,LE2 1WF,125,3,18,house,"Hartopp Road, Clarendon Park",Hartopp Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+154,1585998313,52.624405,-1.112539,LE2 1LT,106,4,9,house,"Mundella Street, Clarendon Park",Mundella Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+155,1132982315,52.629714,-1.118307,LE2 0NN,104,5,11,house,"Severn Street, Highfields",Severn Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+156,1487626317,52.633831,-1.151391,LE3 5QN,111,4,12,house,"Norfolk Street, Westcotes",Norfolk Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+157,796760271,52.627258,-1.147188,LE3 0AW,110,3,6,house,"Gaul Street, Westcotes",Gaul Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+158,564656156,52.625863,-1.139652,LE2 7GQ,110,3,13,house,"Thirlmere Street, City Centre",Thirlmere Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+159,1722906436,52.613622,-1.124235,LE2 6EG,125,3,15,house,"Welford Road, Clarendon Park",Welford Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+160,670645010,52.631735,-1.144901,LE3 5NQ,125,3,8,house,"Thorpe Street, Westcotes",Thorpe Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+161,1851627805,52.626336,-1.140868,LE2 7DF,115,8,6,house,"Jarrom Street, Westcotes",Jarrom Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+162,1236023393,52.626378,-1.140945,LE2 7DF,125,3,12,house,"Jarrom Street, Westcotes",Jarrom Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+163,1498313299,52.628273,-1.132054,LE1 6XF,106,4,6,house,"Upper King Street, City Centre",Upper King Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+164,1025620006,52.623402,-1.152152,LE3 0DF,120,3,11,house,"Ivy Road, Westcotes",Ivy Road,415,Asim,Iqbal,Keywest,False
+165,1683776894,52.616254224406,-1.1230972883606,LE2 1YG,114,6,8,house,"Lorne Road, Clarendon Park",Lorne Road,749,Peter,Fulford,Fulfords Property Management,False
+166,1017086710,52.6334,-1.1563,LE3 6BD,89,5,11,house,"Kirby Road, Westcotes",Kirby Road,415,Asim,Iqbal,Keywest,False
+167,527098037,52.626984,-1.14143,LE2 7DS,110,4,4,house,"Rydal Street, City Centre",Rydal Street,735,Toni,Dempsey,TD Lettings,False
+168,412626182,52.626715,-1.152834,LE3 0FE,96,4,10,house,"Beaconsfield Road, Westcotes",Beaconsfield Road,415,Asim,Iqbal,Keywest,False
+169,316720772,52.636944,-1.151291,LE3 5SB,119,5,15,apartment,"Tyrrell Street, Westcotes",Tyrrell Street,535,Joshua,Littlewood,George Littlewood Properties LTD,False
+170,1428437594,52.626526,-1.145273,LE2 7ES,142,6,16,house,"Sage Road, City Centre",Sage Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+171,964886552,52.627057,-1.15658,LE3 0HF,121,4,20,house,"Upperton Road, Westcotes",Upperton Road,415,Asim,Iqbal,Keywest,False
+172,631565928,52.614801,-1.124012,LE2 1YB,115,3,12,house,"Leopold Road, Clarendon Park",Leopold Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+173,796746221,52.633643,-1.157303,LE3 6BE,99,5,26,house,"Kirby Road, Westcotes",Kirby Road,415,Asim,Iqbal,Keywest,False
+174,450577357,52.627844,-1.152273,LE3 0JD,115,4,8,house,"Barclay Street, Westcotes",Barclay Street,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+175,1275879669,52.627612,-1.148731,LE3 0AU,120,3,8,house,"Gaul Street, Westcotes",Gaul Street,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+176,57920298,52.627406,-1.148817,LE3 0BA,120,3,7,house,"Norman Street, Westcotes",Norman Street,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+177,1091642266,52.628221129125,-1.1478450072708,LE3 0AA,110,3,6,house,"Briton Street, Westcotes",Briton Street,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+178,103703173,52.627331,-1.115252,LE2 1FP,105,3,7,house,"Hamilton Street, Highfields",Hamilton Street,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+179,853878608,52.627788,-1.141365,LE2 7DU,111,4,10,house,"Ullswater Street, City Centre",Ullswater Street,544,Sanjiv,Raithatha,Priya Properties,False
+180,630623511,52.62925,-1.120672,LE2 0ND,160,1,4,apartment,"Saxby Street, City Centre",Saxby Street,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+181,1857062459,52.616805,-1.120264,LE2 1WF,120,3,14,house,"Hartopp Road, Clarendon Park",Hartopp Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+182,1480206923,52.628536,-1.156093,LE3 0JE,116,4,18,house,"Barclay Street, Westcotes",Barclay Street,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+183,1581026042,52.624604,-1.112441,LE2 1LL,124,5,17,house,"Kimberley Road, Highfields",Kimberley Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+184,224890650,52.615791,-1.124191,LE2 1YE,124,5,16,house,"Thurlow Road, Clarendon Park",Thurlow Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+185,1457421229,52.624324,-1.113601,LE2 1LR,139,4,9,house,"Mayfield Road, Clarendon Park",Mayfield Road,663,Jack,Bramford,Housemate Hunter,False
+186,1167525565,52.626911,-1.116492,LE2 1GF,122,6,9,house,"St. Albans Road, Highfields",St. Albans Road,663,Jack,Bramford,Housemate Hunter,False
+187,508716934,52.633073,-1.154321,LE3 6BL,125,6,10,house,"Stretton Road, Westcotes",Stretton Road,451,Chandan,Badoghu,YoRoom,False
+188,1341969024,52.631376,-1.121265,LE2 0JT,110,5,8,house,"Lincoln Street, Highfields",Lincoln Street,415,Asim,Iqbal,Keywest,False
+189,263576192,52.628256,-1.132111,LE1 6XF,105,8,15,house,"Upper King Street, City Centre",Upper King Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+190,64094568,52.621793,-1.149649,LE3 0EE,155,4,11,house,"Blue Fox Close, Westcotes",Blue Fox Close,415,Asim,Iqbal,Keywest,False
+191,1202778139,52.626876,-1.147932,LE3 0GT,136,3,7,house,"Wilberforce Road, Westcotes",Wilberforce Road,663,Jack,Bramford,Housemate Hunter,False
+192,108558661,52.616919,-1.119944,LE2 1WT,160,3,11,house,"St. Leonards Road, Clarendon Park",St. Leonards Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+193,1951615019,52.615044,-1.115691,LE2 3FS,160,3,15,house,"Queens Road, Clarendon Park",Queens Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+194,301021060,52.625335,-1.148659,LE3 0GX,121,4,9,house,"Sheffield Street, Westcotes",Sheffield Street,663,Jack,Bramford,Housemate Hunter,False
+195,1823064248,52.629415,-1.1186,LE2 0NN,130,8,9,house,"Severn Street, Highfields",Severn Street,673,Jasmin,Ruparelia,Oliver Rayns,False
+196,1518375710,52.614514,-1.122939,LE2 3AQ,120,8,8,house,"Clarendon Park Road, Clarendon Park",Clarendon Park Road,673,Jasmin,Ruparelia,Oliver Rayns,False
+197,1300605242,52.632889,-1.153506,LE3 6BL,239,1,9,apartment,"Stretton Road, Westcotes",Stretton Road,544,Sanjiv,Raithatha,Priya Properties,False
+198,2083426682,52.627252,-1.15628,LE3 0FF,104,5,12,house,"Beaconsfield Road Leicester, Westcotes",Beaconsfield Road Leicester,544,Sanjiv,Raithatha,Priya Properties,False
+199,1550798664,52.6285,-1.1513,LE3 0QR,259,1,4,apartment,"Westcotes Drive, Westcotes",Westcotes Drive,544,Sanjiv,Raithatha,Priya Properties,False
+200,665079799,52.622428,-1.13677,LE2 7JA,100,3,7,apartment,"Brazil Street, Aylestone",Brazil Street,635,Fatima,Hussain,Arch Living,False
+201,232826888,52.615226,-1.119852,LE2 3BX,105,3,6,house,"Lytton Road, Clarendon Park",Lytton Road,635,Fatima,Hussain,Arch Living,False
+202,1154748601,52.628837,-1.122056,LE2 1ED,100,3,8,apartment,"London Road, Clarendon Park",London Road,635,Fatima,Hussain,Arch Living,False
+203,1056869483,52.624038,-1.135634,LE2 7JE,101,4,12,house,"Filbert Street East, Westcotes",Filbert Street East,635,Fatima,Hussain,Arch Living,False
+204,404336261,52.615184,-1.117691,LE2 3EG,184,1,4,apartment,"Landseer Road, Clarendon Park",Landseer Road,663,Jack,Bramford,Housemate Hunter,False
+205,1357630820,52.628635,-1.155158,LE3 0JX,113,4,8,house,"Harrow Road, City Centre",Harrow Road,663,Jack,Bramford,Housemate Hunter,False
+206,1663161561,52.616683,-1.122826,LE2 1XP,101,4,9,house,"Howard Road, Clarendon Park",Howard Road,663,Jack,Bramford,Housemate Hunter,False
+207,532734530,52.616672,-1.122781,LE2 1XP,101,4,7,house,"Howard Road, Clarendon Park",Howard Road,663,Jack,Bramford,Housemate Hunter,False
+208,31090221,52.626911,-1.116492,LE2 1GF,95,8,9,house,"St. Albans Road, Clarendon Park",St. Albans Road,663,Jack,Bramford,Housemate Hunter,False
+209,5347747,52.6268,-1.1165,LE2 1FP,120,3,6,house,"Hamilton Stree, Clarendon Park",Hamilton Stree,415,Asim,Iqbal,Keywest,False
+210,91242508,52.6271,-1.1534,LE3 0JA,111,4,9,house,"Barclay Street, Westcotes",Barclay Street,415,Asim,Iqbal,Keywest,False
+211,1090701417,52.624113,-1.104399,LE5 5UD,107,6,12,house,"Stoughton Drive North, Highfields",Stoughton Drive North,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+212,2021011614,52.617703,-1.121748,LE2 1WE,111,4,9,house,"Hartopp Road, Clarendon Park",Hartopp Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+213,435537416,52.61601,-1.123143,LE2 1YH,125,3,5,house,"Lorne Road, Clarendon Park",Lorne Road,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+214,1632905675,52.628,-1.1578,LE3 0JB,106,4,12,house,"Barclay Street, Westcotes",Barclay Street,415,Asim,Iqbal,Keywest,False
+215,1311933197,52.6285,-1.1513,LE3 0QR,209,2,7,apartment,"Westcotes Drive Leicester, Westcotes",Westcotes Drive Leicester,544,Sanjiv,Raithatha,Priya Properties,False
+216,1854632820,52.626664,-1.139672,LE2 7FU,115,3,11,house,"Grasmere Street, City Centre",Grasmere Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+217,637459365,52.626853,-1.139029,LE2 7FG,115,3,12,house,"Clarendon Street, Westcotes",Clarendon Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+218,1742600572,52.6289,-1.1556,LE3 0JZ,106,4,12,house,"Harrow Road, Westcotes",Harrow Road,544,Sanjiv,Raithatha,Priya Properties,False
+219,441807290,52.6169,-1.1564,LE3 2BB,131,4,21,house,"Collingham Road, Westcotes",Collingham Road,544,Sanjiv,Raithatha,Priya Properties,False
+220,379471493,52.628354,-1.151879,LE3 0JY,144,5,17,house,"Harrow Road, Westcotes",Harrow Road,544,Sanjiv,Raithatha,Priya Properties,False
+221,822569766,52.62803242589,-1.1409032969213,LE2 7DA,120,3,10,house,"Grasmere Street, Westcotes",Grasmere Street,544,Sanjiv,Raithatha,Priya Properties,False
+222,662962616,52.627111,-1.148777,LE3 0BA,120,3,6,house,"Norman Street, Westcotes",Norman Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+223,223463058,52.627612,-1.148731,LE3 0AU,120,3,7,house,"Gaul Street, Westcotes",Gaul Street,415,Asim,Iqbal,Keywest,False
+224,1947811179,52.631643881062,-1.1508572440415,LE3 0TD,119,2,5,apartment,"Hinckley Road, Westcotes",Hinckley Road,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+225,340401316,52.6271,-1.149,LE3 0BA,120,3,7,house,"Norman Street, Westcotes",Norman Street,415,Asim,Iqbal,Keywest,False
+226,408653944,52.628687,-1.15575,LE3 0JX,111,4,8,house,"Harrow Road, Westcotes",Harrow Road,415,Asim,Iqbal,Keywest,False
+227,2123530086,52.61425,-1.123169,LE2 3AG,101,4,8,house,"Clarendon Park Road, Clarendon Park",Clarendon Park Road,635,Fatima,Hussain,Arch Living,False
+228,899278743,52.614105,-1.123918,LE2 3AQ,101,4,9,house,"Clarendon Park Road, Clarendon Park",Clarendon Park Road,635,Fatima,Hussain,Arch Living,False
+229,1821200324,52.616291,-1.121095,LE2 1WJ,101,4,9,house,"Lytton Road, Clarendon Park",Lytton Road,635,Fatima,Hussain,Arch Living,False
+230,1327723762,52.629886,-1.119106,LE2 0NN,86,7,11,house,"Severn Street, Highfields",Severn Street,635,Fatima,Hussain,Arch Living,False
+231,1025132368,52.632598,-1.153225,LE3 6BN,92,6,10,house,"Stretton Road, Westcotes",Stretton Road,635,Fatima,Hussain,Arch Living,False
+232,195014235,52.625806,-1.112542,LE2 1HS,120,3,8,house,"Tennyson Street, Highfields",Tennyson Street,267,Annette,Bateman,Nicholas Humphreys (Leicester),False
+233,1535464250,52.623157988046,-1.1496545469437,LE3 0DB,125,4,12,house,"Eastleigh Road, Westcotes",Eastleigh Road,391,Perri,Lynch,Berkley Estate & Letting Agents,False
+234,484082133,52.632982,-1.155491,LE3 6BJ,150,6,27,house,"Stretton Road, Westcotes",Stretton Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
+235,385856660,52.628536,-1.156093,LE3 0JE,111,4,11,house,"Barclay Street, Westcotes",Barclay Street,415,Asim,Iqbal,Keywest,False
+236,1995194025,52.627172,-1.138937,LE2 7DE,115,3,12,house,"Jarrom Street, Westcotes",Jarrom Street,415,Asim,Iqbal,Keywest,False
+237,1909313998,52.621793,-1.149649,LE3 0EE,145,4,9,house,"Blue Fox Close, Westcotes",Blue Fox Close,415,Asim,Iqbal,Keywest,False
+238,744505508,52.632184,-1.130912,LE1 6GB,146,4,6,apartment,"Albion Street, City Centre",Albion Street,415,Asim,Iqbal,Keywest,False
+239,778331090,52.623507,-1.155481,LE3 1AU,112,6,29,house,"Winchester Avenue, Westcotes",Winchester Avenue,451,Chandan,Badoghu,YoRoom,False
+240,1992499530,52.633073,-1.154321,LE3 6BL,125,6,16,house,"Stretton Road, Westcotes",Stretton Road,451,Chandan,Badoghu,YoRoom,False
+241,1965873081,52.623507,-1.155481,LE3 1AU,100,6,26,house,"Winchester Avenue, Westcotes",Winchester Avenue,451,Chandan,Badoghu,YoRoom,False
+242,707386881,52.615001,-1.123107,LE2 1YD,116,4,23,house,"Lytham Road, Clarendon Park",Lytham Road,584,Glen,Reader,Focus Property Sales & Management Ltd,False
