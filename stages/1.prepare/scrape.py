@@ -41,7 +41,7 @@ def fetch(api: str, pages: int, path: str) -> None:
             continue
 
 def main() -> None:
-    DATA_DIR: str = Path.cwd()
+    DATA_DIR: str = Path.cwd().joinpath("stages","1.collect","data")
     api: str = "https://www.unihomes.co.uk/student-accommodation/leicester?page={}&reload=true"
     fetch(api, 14, DATA_DIR)
     
