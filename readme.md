@@ -17,7 +17,10 @@ Empower UoL students with comprehensive insights and actionable information to s
 
 ## Deliverables
 A **presentation** summarising key insights, recommending suitable areas, and rental prices.<br>
-<a href="">Access & Download Presentation</a>
+
+<img src="./media/output/presentation_shot.png" width=40%>
+
+<a href="https://drive.google.com/file/d/1-ZDMRmP0q_ruAbMXHwZ15bgHdOTWHIql/view?usp=sharing">Access & Download PDF version</a>
 
 ## Methodology
 **Python**<br>
