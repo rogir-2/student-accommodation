@@ -1,17 +1,16 @@
 # Data Collection
-The section outlines the process of acquiring data, detailing the steps involved in scraping, extracting, and loading the data.
+This section outlines the process of acquiring data, detailing the steps taken in scraping, extracting, and loading the data.
 
 ## Data Source
-Data was gathered from the API of https://unihomes.co.uk, a reputable platform specialising in student accommodations across the UK. Python language was utilised for the data extraction process, leveraging the "request" library for faciliating HTTP requests to the API endpoints. Additionally, the "json" and "pandas" libraries were employed to parse the response and pre-process the data into a usable CSV format. The dataset encompasses crucial details, such as property addresses, rental price, commute times and distance to and from university.
+Data was gathered from the API of https://unihomes.co.uk, a reputable platform specialising in student accommodations across the UK. Python language was utilised for the data extraction process, leveraging the "request" library for faciliating HTTP requests to the API endpoints. Additionally, the "json" and "pandas" libraries were employed to parse the response and pre-process the data into a usable CSV format. The dataset encompasses crucial details, such as property addresses, rental prices, commute times and distance to and from university.
 
-## Workflow Diagram
+## Workflow
 The diagram illustrates the sequential steps involved in the data acquisition process.
 
 <img src="../../media/diagrams/workflow.png" width=80%>
 
 ## Data Dictionary
-An overview of fields included in the dataset.
-
+An overview of fields included in the dataset:
 <table>
   <tr>
     <th>Field Name</th>
@@ -76,7 +75,7 @@ An overview of fields included in the dataset.
 </table>
 
 ## Restrictions
-Several limitations were encountered during the data collection phase due to the inherent constraints of the API. 
+Many limitations were encountered during the data collection phase due to the inherent constraints of the API. 
 
 The API imposed restrictions on the volume of data accessible per request and enforced rate limits to prevent excessive querying. To address these issues, a strategy of paginated requests was implemented, ensuring comprehensive data retrieval while adhering to the API's constraints. 
 

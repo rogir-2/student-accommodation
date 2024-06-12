@@ -1,9 +1,9 @@
 # UoL Student Accommodation
 ### Abstract
-This project aims to aid University of Leicester (UoL) students in their move to independent housing by providing key insights into the rental market. Data was scraped from unihomes.co.uk using Python, processed and analysed with Excel, and summarised in PowerPoint. Insights reveal that Clarendon Park and Highfields offer a high concentration of properties, with varying rental prices. Students are advised on how to prioritise their housing search based on location, budget, and essential amenities. This analysis equips UoL students with the necessary information to effectively navigate the housing market and secure suitable, affordable accommodations.
+This project aims to aid University of Leicester (UoL) students in their move to independent housing by providing key insights into the rental market. Data was scraped from www.unihomes.co.uk using Python, processed and analysed with Excel, and summarised in PowerPoint. Insights reveal that Clarendon Park and Highfields offer a high concentration of properties, with varying rental prices. Students are advised on how to prioritise their housing search based on location, budget, and essential amenities. This analysis equips UoL students with the necessary information to effectively navigate the housing market and secure suitable, affordable accommodations.
 
 ### Keywords
-Python, Excel, PowerPoint, ETL (Extract, Transform, Load), Data Scraping, Data Wrangling, Data Modelling, Data Visualisation, Storytelling, Project Management, Power Query, Power Pivot, M-Language, Presentation, Critical Thinking, Problem-Solving, Analytics, Continuous Learning, Star Schema, SCQA Framework, and Ad-Hoc Analysis 
+Python, Excel, PowerPoint, ETL (Extract, Transform, Load), Data Scraping, Data Wrangling, Data Modelling, Data Visualisation, Storytelling, Project Management, PowerQuery, PowerPivot, M-Language, Presentation, Critical Thinking, Problem-Solving, Analytics, Continuous Learning, Star Schema, SCQA Framework, and Ad-Hoc Analysis.
 
 ## Problem Statement
 Transitioning from university-provided to independent housing poses a daunting challenge for University of Leicester (UoL) students beyond their first year. While the institution reserves hall spaces primarily for freshers, returning students struggle to secure suitable, affordable accommodations near the university and essential amenities. To ensure a smooth transition to independent living, students urgently require current insights into the housing market.
@@ -43,10 +43,10 @@ Employed Excel for data transformation and visualisation to illustrate data tren
 Formulated a PowerPoint presentation to convey data insights in an engaging and comprehensible manner.
 
 ## Explore detailed chapters on the data analysis process
-1. <a href="./stages/1.prepare/">Data Scraping</a>
-2. <a href="./stages/2.clean.md">Data Wrangling</a>
-4. <a href="./stages/3.model.md">Data Modelling</a>
-5. <a href="./stages/4.analyse.md">Analysis & Visuals</a>
++ <a href="./stages/1.prepare/">Data Scraping</a>
++ <a href="./stages/2.clean.md">Data Wrangling</a>
++ <a href="./stages/3.model.md">Data Modelling</a>
++ <a href="./stages/4.analyse.md">Analysis & Visuals</a>
 
 ## Insights & So What?
 
@@ -62,14 +62,14 @@ Data reveals several Leicester neighbourhoods boast a high concentration of prop
 
 ## Limitations
 
-+ **Lack of Historical Data:** The absence of historical pricing data limits the ability to analyse rental price trends over time, which could provide valuable insights for future projections and budgeting.
+**Lack of Historical Data:** The absence of historical pricing data limits the ability to analyse rental price trends over time, which could provide valuable insights for future projections and budgeting.
 
-+ **Incomplete Property Types:** The dataset may not encompass all available property types, such as studio apartments or luxury accommodations, thereby limiting the scope and applicability of the analysis.
+**Incomplete Property Types:** The dataset may not encompass all available property types, such as studio apartments or luxury accommodations, thereby limiting the scope and applicability of the analysis.
 
-+ **Furnishing Details:** Missing information on whether properties are furnished or unfurnished hampers the ability to fully assess the value and suitability of different accommodations for students' needs.
+**Furnishing Details:** Missing information on whether properties are furnished or unfurnished hampers the ability to fully assess the value and suitability of different accommodations for students' needs.
 
-+ **Neighborhood Information:** The analysis lacks contextual data on neighborhood safety, transportation options, and local amenities, which are crucial for making informed housing decisions.
+**Neighborhood Information:** The analysis lacks contextual data on neighborhood safety, transportation options, and local amenities, which are crucial for making informed housing decisions.
 
-+ **Agency Fees and Contract Details:** Information regarding agency fees, deposit requirements, and rental contract lengths is not included, which can significantly impact the total cost of renting and students' financial planning.
+**Agency Fees and Contract Details:** Information regarding agency fees, deposit requirements, and rental contract lengths is not included, which can significantly impact the total cost of renting and students' financial planning.
 
-+ **Socioeconomic Data:** The absence of demographic information such as student income levels or family financial support limits the ability to understand and address socioeconomic factors influencing accommodation choices.
+**Socioeconomic Data:** The absence of demographic information such as student income levels or family financial support limits the ability to understand and address socioeconomic factors influencing accommodation choices.
